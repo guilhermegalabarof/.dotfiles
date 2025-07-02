@@ -1,1 +1,3 @@
 yay -S cava
+yay -S xdg-desktop-portal-hyprland
+yay -S vivaldi
