@@ -97,7 +97,8 @@ button:hover {
 #tray,
 #mpris,
 #load,
-#memory {
+#memory,
+#cpu {
   padding: 0 10px;
   background-color: #282828;
   color: #ebdbb2;

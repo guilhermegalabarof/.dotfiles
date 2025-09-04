@@ -10,12 +10,17 @@
       "mpris",
       "idle_inhibitor",
       "memory",
+      "cpu",
       "wireplumber",
       "battery",
       "tray"
     ],
     "memory": {
       "format": "{percentage} %"
+    },
+    "cpu": {
+      "format": "{usage} %",
+      "tooltip": false
     },
     // Modules configuration
     "sway/window": {
@@ -83,10 +88,6 @@
       // "timezone": "America/New_York",
       "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
       "format-alt": "{:%Y-%m-%d}"
-    },
-    "cpu": {
-      "format": "{usage}% ",
-      "tooltip": false
     },
     "temperature": {
       // "thermal-zone": 2,

@@ -1,0 +1,7 @@
+apache
+php
+php-apache
+phpmyadmin
+mariadb
+php-iconv
+wordpress
